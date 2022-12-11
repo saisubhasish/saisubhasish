@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saisubhasish" alt="saisubhasish" /></a> </p>
 
-- 🔭 I’m currently working on **ML project**
+- 🔭 I’m currently working on **APS Sensor Fault Detection, ML project**
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, NLP, Computer Vision**
 
