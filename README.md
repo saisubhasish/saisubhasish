@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, NLP, Computer Vision**
 
-- 👯 I’m looking to collaborate on **APS Sensor Fault Detection**
-
 - 💬 Ask me about **Career related guidance, ML & Python queries**
 
 - 📫 How to reach me **saisubhasishrout777@gmail.com**
