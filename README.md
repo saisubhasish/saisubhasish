@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, NLP, Computer Vision**
 
-- 💬 Ask me about **Career related guidance, ML & Python queries**
+- 💬 Ask me about **Statistics, Python & Data Science queries**
 
 - 📫 How to reach me **saisubhasishrout777@gmail.com**
 
