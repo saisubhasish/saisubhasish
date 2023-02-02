@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Computer Vision, NLP**
 
-- 💬 Ask me about **Statistics, Python & Data Science queries**
+- 💬 Ask me about **Statistics, Python & Data Science**
 
 - 📫 How to reach me **saisubhasishrout777@gmail.com**
 
