@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **APS Sensor Fault Detection, ML project**
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, NLP, Computer Vision**
+- 🌱 I’m currently learning **Computer Vision, NLP**
 
 - 💬 Ask me about **Statistics, Python & Data Science queries**
 
