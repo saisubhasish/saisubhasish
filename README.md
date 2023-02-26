@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sai-subhasish-rout-655707151/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai-subhasish-rout-655707151/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sai-subhasish-rout-655707151/" target="blank"><img align="center" src="https://github.com/saisubhasish/datasets/blob/main/179330.png" alt="sai-subhasish-rout-655707151/" height="30" width="40" /></a>
 <a href="https://medium.com/@saisubhasishrout777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@saisubhasishrout777" height="30" width="40" /></a>
 </p>
 
