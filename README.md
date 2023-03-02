@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Thyroid Disease Detection, ML project](https://github.com/saisubhasish/ThyroidDetection_ML_Project)
 
-- 🌱 I’m currently learning **Computer Vision, NLP**
+- 🌱 I’m currently learning **NLP**
 
 - 👯 I’m looking to collaborate on [Investment Prediction](https://github.com/saisubhasish/InvestmentPrediction)
 
