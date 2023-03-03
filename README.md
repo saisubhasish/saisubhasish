@@ -11,13 +11,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/saisubhasish](https://github.com/saisubhasish)
 
-- 📝 I regularly write articles on [https://medium.com/@saisubhasishrout777](https://medium.com/@saisubhasishrout777)
+- 📝 I write articles on [https://medium.com/@saisubhasishrout777](https://medium.com/@saisubhasishrout777)
 
 - 💬 Ask me about **Statistics, Python, SQL & Data Science**
 
 - 📫 How to reach me **saisubhasishrout777@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LBQYjjF19JtZRN28cNlo7h-ua8ZbURYN/view?usp=share_link](https://drive.google.com/file/d/1LBQYjjF19JtZRN28cNlo7h-ua8ZbURYN/view?usp=share_link)
+- 📄 Know about my experiences https://drive.google.com/file/d/1pdq3_9EvjDtJ9iLxd_5glrj1lyjuo2Yg/view?usp=share_link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
