@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saisubhasish&label=Profile%20views&color=0e75b6&style=flat" alt="saisubhasish" /> </p>
 
-- 🔭 I’m currently working on [Thyroid Disease Detection, ML project](https://github.com/saisubhasish/ThyroidDetection_ML_Project)
+- 🔭 I’m currently working on [Investment Prediction](https://github.com/saisubhasish/InvestmentPrediction)
 
 - 🌱 I’m currently learning **NLP**
 
-- 👯 I’m looking to collaborate on [Investment Prediction](https://github.com/saisubhasish/InvestmentPrediction)
+- 👯 I’m looking to collaborate on NLP Project
 
 - 👨‍💻 All of my projects are available at [https://github.com/saisubhasish](https://github.com/saisubhasish)
 
