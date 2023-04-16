@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saisubhasish&label=Profile%20views&color=0e75b6&style=flat" alt="saisubhasish" /> </p>
 
-- 🔭 I’m currently working on [Investment Prediction](https://github.com/saisubhasish/InvestmentPrediction)
+- 🔭 I’m currently working on [Investment Prediction](https://github.com/saisubhasish/Investment_Prediction)
 
 - 🌱 I’m currently learning **NLP**
 
