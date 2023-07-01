@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on NLP Project
 
-- 👨‍💻 Check my project [https://github.com/saisubhasish/ThyroidDetection_ML_Project](https://github.com/saisubhasish/ThyroidDetection_ML_Project)
+- 👨‍💻 Check my previous project [https://github.com/saisubhasish/ThyroidDetection_ML_Project](https://github.com/saisubhasish/ThyroidDetection_ML_Project)
 
 - 📝 I write articles on [https://medium.com/@saisubhasishrout777](https://medium.com/@saisubhasishrout777)
 
