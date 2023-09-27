@@ -13,7 +13,7 @@
 
 - 📝 I write articles on [https://medium.com/@saisubhasishrout777](https://medium.com/@saisubhasishrout777)
 
-- 💬 Ask me about **Statistics, Python, SQL & Data Science**
+- 💬 Ask me about **Statistics, Python, Machine Learinging & Data Science**
 
 - 📫 How to reach me **saisubhasishrout777@gmail.com**
 
