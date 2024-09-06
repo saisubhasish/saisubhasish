@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Investment Prediction](https://github.com/saisubhasish/Investment_Prediction)
 
-- 🌱 I’m currently learning **LLM**
+- 🌱 I’m currently learning **Generative AI**
 
 - 👯 I’m looking to collaborate on NLP Project
 
